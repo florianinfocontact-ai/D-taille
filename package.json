@@ -11,8 +11,5 @@
   },
   "author": "David Polchet",
   "license": "UNLICENSED",
-  "private": true,
-  "dependencies": {
-    "sharp": "^0.34.5"
-  }
+  "private": true
 }
