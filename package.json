@@ -1,0 +1,15 @@
+{
+  "name": "d-taille",
+  "version": "1.0.0",
+  "description": "Site vitrine — Le D-Taille du Jardinier, paysagiste à Malonne",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "David Polchet",
+  "license": "UNLICENSED",
+  "private": true
+}
